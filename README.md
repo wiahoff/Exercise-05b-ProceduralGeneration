@@ -2,10 +2,11 @@
 
 
 ## Implementation
+added maze elements
 
 ## References
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+William Hoffman
